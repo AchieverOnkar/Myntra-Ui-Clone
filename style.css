@@ -1,0 +1,334 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+    scrollbar-width: thin; /* For Firefox */
+    -ms-overflow-style: none;
+}
+body::-webkit-scrollbar {
+    width: 0px; 
+   
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    /* box-shadow: 0px 10px #7a7d81; */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+.navbar-logo-container{
+    margin-left: 4%;
+    margin-top: 0.7%;
+   display: flex;
+}
+.navbar-logo{
+    height: 40px;
+    width: 53px;
+    margin-bottom: 7px;
+    background-image: url(images/images/images/myntra_logo.webp);
+    background-size: contain;
+}
+.navbar-buttons{
+    width: 42%;
+    margin-top: 0.7%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar-buttons a{
+    margin: 0 2%;
+    text-decoration: none;
+    color: #282c3f;
+    font-weight: 700;
+    font-size: 1.9vh;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    padding: 29px 8px;
+    border-bottom: 4px solid transparent;
+}
+.navbar-buttons a:hover{
+    border-bottom: 4px solid #f54e77;
+
+}
+.navbar-buttons sup{
+    color: #ff3f6c;
+    font-weight: 700;
+    font-size: 9px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase
+}
+
+
+
+.navbar-searchbar{
+    height: 50%;
+    width: 25%;
+    margin-right:0;
+    margin-left: 10%;
+    background-color: #f5f5f6;
+    color: #696e79;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+   
+}
+.navbar-searchbar-icon{
+    height: 16px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-decoration: none;
+
+}
+.navbar-searchbar-input{
+    flex-grow: 1;
+    height: 40px;
+    border: none;
+    padding: 0;
+    background-color: #f5f5f6;
+    outline: none;
+}
+.navbar-searchbar-input:focus {
+    background-color: white;
+}
+
+
+
+/*action items*/
+.navbar-action-items{
+    width: 25%;
+    max-width: 200px;
+    display: flex;
+    margin-right:0 ;
+    margin-left: 5px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.navbar-action-item{
+    display: flex;
+    height: 40px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    padding-bottom: 37px ;
+    padding-top: 37px;
+    border-bottom: 4px solid transparent;
+
+}
+.navbar-action-item:hover{
+    border-bottom: 4px solid #f54e77;
+
+}
+.navbar-action-item span{
+    font-size: 1.7vh;
+    font-weight: 700;
+    margin-top: 5px;
+    line-height: 6px;
+
+}
+.navbar-action-item i{
+    font-size: 20px;
+    font-weight: 100;
+    color: #282c3f;
+}
+
+
+
+/*main body*/
+/*banner*/
+main{
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 20px; */
+}
+.main-container{
+    /* height: 900px; */
+    width: 100%;
+    margin: 8% 0;
+}
+.banner{
+    height: 50vh;
+    width: 100%;
+    background-image: url(images/images/images/banner.jpg);
+    background-size: cover;
+}
+
+.medalBrand{
+    height: 38%;
+    margin: 8% 0; 
+}
+.medalBrandTitle{
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 2.8vh;
+    margin: 50px 0 10px 30px;
+    max-height: 5em;
+    font-weight: 700;
+    margin-bottom: 5%;
+
+}
+.brand-cards-container{
+    height: 295px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.shopByCategory{
+    height: 800px;
+    width: 100%;
+}
+.shopByCategory-title {
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 2.8vh;
+    margin: 5px 0 10px 30px;
+    max-height: 5em;
+    font-weight: 700;
+    margin-bottom: 5%;
+}
+.shopByCategory-card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.shopByCategory-card-container img{
+
+    height: 290px;
+    width: 220px;
+}
+
+/*footer*/
+.footer-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 400px;
+    background-color: #f5f5f6;
+    color: #696e79;
+
+}
+.footer-container ul {
+    margin: 4%;
+    font-size: 2.2vh;
+}
+.footer-container span {
+    color: #282c3f;
+    font-size: 1.7vh;
+    font-weight: 700;
+    margin: 20px 0px 20px;
+    line-height: 6px;
+
+}
+.downlodeApp{
+ margin-top: 50px;
+ padding-left: 5px;
+}
+.downloadeApp-imgContainer{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px 20px 20px 0;
+}
+.img1{
+    height: 42px;
+    width: 120px;
+    background-image: url(images/images/images/app1.png);
+    background-size:contain;
+}
+.img2{
+    height: 42px;
+    width: 140px;
+    background-image: url(images/images/images/app2.png);
+    background-size:contain;
+}
+
+/*keep in touch*/
+.pointer{
+    cursor: pointer;
+}
+.keepInTouch{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.keepInTouch span{
+    margin-left: 5px;
+}
+
+.keepInTouch-Link i{
+    font-size: 30px;
+}
+
+.promises{
+    height: 150px;
+    width: 250px;
+    display: flex;
+    margin-top: 40px ;
+    margin-right: 20px;
+    flex-direction: column;
+    font-size: 1.8vh;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.promises-icon{
+   
+  font-size: 6vh;
+  margin:  0px 5px 5px 5px;
+  font-weight: 100;
+}
+.promises p{
+    margin-top: 8px;
+    margin-left: 2px;
+}
+.promises span{
+    font-size: 1.9vh;
+    font-weight: 700;
+}
+.promise1{
+
+    display: flex;
+}
+.promise2{
+    display: flex;
+}
+
+/* Add a media query for tablets and larger screens */
+@media screen and (min-width: 768px) {
+    .navbar-searchbar {
+        width: 25%;
+        margin: 0;
+    }
+
+    .navbar-action-items {
+        width: 25%;
+        max-width: none;
+        margin: 0;
+    }
+}
+
+/* Add a media query for desktop screens */
+@media screen and (min-width: 1024px) {
+    .navbar-searchbar {
+        width: 20%;
+    }
+}
