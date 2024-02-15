@@ -50,10 +50,10 @@ This project is solely for educational purposes and is not affiliated with Myntr
 
 ## Preview
 
-![Homepage]([url/to/your/homepage-image.jpg](https://www.dropbox.com/scl/fi/xn4h9kqy2zyh5t59ip5au/myntra-ui-clone1.png?rlkey=vzvxu628em7ptcecmdug6b4rx&dl=0)https://www.dropbox.com/scl/fi/xn4h9kqy2zyh5t59ip5au/myntra-ui-clone1.png?rlkey=vzvxu628em7ptcecmdug6b4rx&dl=0)
+![Homepage]([url/to/your/homepage-image.jpg](https://dl.dropbox.com/scl/fi/xn4h9kqy2zyh5t59ip5au/myntra-ui-clone1.png?rlkey=vzvxu628em7ptcecmdug6b4rx&dl=0)https://dl.dropbox.com/scl/fi/xn4h9kqy2zyh5t59ip5au/myntra-ui-clone1.png?rlkey=vzvxu628em7ptcecmdug6b4rx&dl=0)
 
-![Product Page]([url/to/your/product-page-image.jpg](https://www.dropbox.com/scl/fi/tp453y68kikvx3zuf0i6i/myntra-ui-clone2.png?rlkey=iqjttzwmhsngr2dg90dxlqy8e&dl=0)https://www.dropbox.com/scl/fi/tp453y68kikvx3zuf0i6i/myntra-ui-clone2.png?rlkey=iqjttzwmhsngr2dg90dxlqy8e&dl=0)
-![Product Page]([url/to/your/product-page-image.jpg](https://www.dropbox.com/scl/fi/4xk0ju73hzgo3dv9boitb/myntra-ui-clone3.png?rlkey=78znghrk2xvat5eb0wr8e87qg&dl=0)https://www.dropbox.com/scl/fi/4xk0ju73hzgo3dv9boitb/myntra-ui-clone3.png?rlkey=78znghrk2xvat5eb0wr8e87qg&dl=0)
+![Product Page]([url/to/your/product-page-image.jpg](dl://www.dropbox.com/scl/fi/tp453y68kikvx3zuf0i6i/myntra-ui-clone2.png?rlkey=iqjttzwmhsngr2dg90dxlqy8e&dl=0)https://dl.dropbox.com/scl/fi/tp453y68kikvx3zuf0i6i/myntra-ui-clone2.png?rlkey=iqjttzwmhsngr2dg90dxlqy8e&dl=0)
+![Product Page]([url/to/your/product-page-image.jpg](https://dl.dropbox.com/scl/fi/4xk0ju73hzgo3dv9boitb/myntra-ui-clone3.png?rlkey=78znghrk2xvat5eb0wr8e87qg&dl=0)https://dl.dropbox.com/scl/fi/4xk0ju73hzgo3dv9boitb/myntra-ui-clone3.png?rlkey=78znghrk2xvat5eb0wr8e87qg&dl=0)
 
 
-![footer]([url/to/your/product-page-image.jpg](https://www.dropbox.com/scl/fi/rcyk3k9k8n8790zljpekn/myntra-ui-clone4.png?rlkey=j0wj5sf6lrwvioc3w1561giod&dl=0)https://www.dropbox.com/scl/fi/rcyk3k9k8n8790zljpekn/myntra-ui-clone4.png?rlkey=j0wj5sf6lrwvioc3w1561giod&dl=0)
+![footer]([url/to/your/product-page-image.jpg](https://dl.dropbox.com/scl/fi/rcyk3k9k8n8790zljpekn/myntra-ui-clone4.png?rlkey=j0wj5sf6lrwvioc3w1561giod&dl=0)https://www.dropbox.com/scl/fi/rcyk3k9k8n8790zljpekn/myntra-ui-clone4.png?rlkey=j0wj5sf6lrwvioc3w1561giod&dl=0)
